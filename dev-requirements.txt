@@ -12,7 +12,7 @@ pytest-dotenv
 
 # Most recent stable release
 # dbt-tests-adapter
-# dbt-core
+dbt-core
 # dbt-redshift
 # dbt-snowflake
 # dbt-bigquery
@@ -20,7 +20,7 @@ pytest-dotenv
 
 # Most recent release candidates
 dbt-tests-adapter==1.5.0-rc1
-dbt-core==1.5.0-rc1
+# dbt-core==1.5.0-rc1
 dbt-redshift==1.5.0-rc1
 dbt-snowflake==1.5.0-rc1
 dbt-bigquery==1.5.0-rc1
